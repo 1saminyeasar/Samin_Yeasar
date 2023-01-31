@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm S</h1>
+<h1 align="center">Hi 👋, I'm Samin Yeasar</h1>
 <h3 align="center">A passionate learner of "Data Science"</h3>
 
 - 🌱 I’m currently learning **Machine Learning & Data Science**
