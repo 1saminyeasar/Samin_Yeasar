@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samin Yeasar</h1>
 <h3 align="center">A passionate learner of "Data Science"</h3>
 
-- 🌱 I’m currently learning **Machine Learning & Data Science**
+- 🌱 I've expertise on  **Machine Learning & Data Science**,**Data Analysis & Visualization**,**Powerbi**,**Tableau**,**SQL**,**LookerStudio**,**Microsoft Excel**,**Python**
 
 </p>
 
